@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Parking-reservation/static/css/main.4d72ddc6.css",
+    "main.js": "/Parking-reservation/static/js/main.0b2e4093.js",
+    "index.html": "/Parking-reservation/index.html",
+    "main.4d72ddc6.css.map": "/Parking-reservation/static/css/main.4d72ddc6.css.map",
+    "main.0b2e4093.js.map": "/Parking-reservation/static/js/main.0b2e4093.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d72ddc6.css",
+    "static/js/main.0b2e4093.js"
+  ]
+}
