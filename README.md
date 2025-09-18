@@ -25,7 +25,10 @@ A full-stack web application for managing parking spaces, built with React, Node
 - Payment Processing: Stripe
 
 ## Setup Instructions
-
+Clone the repository:
+   ```bash
+   git clone https://github.com/Ibrahim-Alroaini/Parking-reservation.git
+   ```
 1. Install dependencies:
    ```bash
    # Install frontend dependencies
@@ -88,3 +91,7 @@ A full-stack web application for managing parking spaces, built with React, Node
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request
+
+## Contact
+
+For questions or support, contact me via GitHub: [Ibrahim-Alroaini](https://github.com/Ibrahim-Alroaini)
